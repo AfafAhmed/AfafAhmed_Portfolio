@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Afaf Ahmed</title>
+    <link>https://AfafAhmed.github.io/AfafAhmed_Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Afaf Ahmed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2023 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://AfafAhmed.github.io/AfafAhmed_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: California House Price Estimator</title>
+      <link>https://AfafAhmed.github.io/AfafAhmed_Portfolio/post/project-1/</link>
+      <pubDate>Sun, 09 Apr 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://AfafAhmed.github.io/AfafAhmed_Portfolio/post/project-1/</guid>
+      <description>Created a tool that estimates data California House Price (MAE ~ $ 500K) to help the people easily get the house in their required region and price range. It help&amp;rsquo;s the viewers to easily find home in California with 10x faster Created as a Proof of Concept(POC) and aim to increase the best serach of home in California by 10x faster. Deployed this POC for Internship(at Ineuro.ai) (as Freasher) Built a client facing API using flask</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Deep CNN Classifier</title>
+      <link>https://AfafAhmed.github.io/AfafAhmed_Portfolio/post/project-2/</link>
+      <pubDate>Sun, 09 Apr 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://AfafAhmed.github.io/AfafAhmed_Portfolio/post/project-2/</guid>
+      <description>Created a tool that easily classify the cat and dog images The aim of this project is to build a machine learning model that can accurately classify images of dogs and cats. The model is trained on a dataset of labeled images of dogs and cats, with transfer learning on VGG16 imagenet dataset. and will be able to predict the correct label for new images. It help&amp;rsquo;s the viewers to easily classifiy Cat and Dog with 90% accuracy Deployed this Project for Internship(at Ineuro.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Wafer Fault Detection</title>
+      <link>https://AfafAhmed.github.io/AfafAhmed_Portfolio/post/project-3/</link>
+      <pubDate>Sun, 09 Apr 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://AfafAhmed.github.io/AfafAhmed_Portfolio/post/project-3/</guid>
+      <description>The main aim of this project is to build a classification methodology to predict the quality of wafer ( faulty or good) sensors based on the given training data. Client will send the data in multiple set of files in batches at a given location. Data will contain Wafer names and 590 columns of different sensor values for each wafer. Apart from prediction files, we also require a &amp;ldquo;schema&amp;rdquo; file from client which contains all the relevant information about the training files such as: Name of the files, Length of Date value in FileName, Length of Time value in FileName, Number of Columns, Name of the Columns and their datatype.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Tyroid Disease Detection</title>
+      <link>https://AfafAhmed.github.io/AfafAhmed_Portfolio/post/project-4/</link>
+      <pubDate>Sun, 09 Apr 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://AfafAhmed.github.io/AfafAhmed_Portfolio/post/project-4/</guid>
+      <description>The main objective of this project is to predict if a person is having compensated hypothyroid, primary hypothyroid, secondary hypothyroid or negative (no thyroid) with the help of Machine Learning The client will send data in multiple files in batches to a given location. Data will contain different classes of thyroid and 30 columns of different values. &amp;ldquo;Class&amp;rdquo; column will have four unique values “negative,compensated_hypothyroid, primary_hypothyroid, secondary_hypothyroid”.
+It help&amp;rsquo;s the client to easily detect the thyroid by 90% accuracy.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Shredder System Hand Detection</title>
+      <link>https://AfafAhmed.github.io/AfafAhmed_Portfolio/post/project-5/</link>
+      <pubDate>Sun, 09 Apr 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://AfafAhmed.github.io/AfafAhmed_Portfolio/post/project-5/</guid>
+      <description>In processing industries, like Waste Management,accidents occurred when a worker was feeding paper into a shredder machine and did not release the paper in time to prevent the fingers from entering the shredder opening. As paper shredder continued to pull the paper into the shredder opening, it also pulled in the worker’s fingers. Providing safety to workers who works on paper shredder machine using computer vision hand detection.
+Shredder System Project is made to predict the hand from the camera that set on shredder and give alter noice to client whenever the hand is crosses above the blue line.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Employee Monitoring Registration</title>
+      <link>https://AfafAhmed.github.io/AfafAhmed_Portfolio/post/project-6/</link>
+      <pubDate>Sun, 09 Apr 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://AfafAhmed.github.io/AfafAhmed_Portfolio/post/project-6/</guid>
+      <description>This is a complete face recognition project with a few clicks the application has the capability to collect datasets using a webcam, train itself and do predictions in real-time. created a tool that do the task of employee registration using therir facial features, And detects the employee with their face and display their name on the GUI. It is a easily maintainable tool, and this is paar better peroforming project then other face recognization projects in industry.</description>
+    </item>
+    
+    <item>
+      <title>Project 7: Automatic number-plate recognition</title>
+      <link>https://AfafAhmed.github.io/AfafAhmed_Portfolio/post/project-7/</link>
+      <pubDate>Sun, 09 Apr 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://AfafAhmed.github.io/AfafAhmed_Portfolio/post/project-7/</guid>
+      <description>Number Plate recognition, also called License Plate realization or recognition using image processing methods is a potential research area in smart cities and the Internet of Things. An exponential increase in the number of vehicles necessitates the use of automated systems to maintain vehicle information for various purpose
+In the proposed algorithm an efficient method for recognition of Indian vehicle number plates has been devised. We are able to deal with noisy, low illuminated, cross angled, non-standard font number plates.</description>
+    </item>
+    
+  </channel>
+</rss>
